@@ -1,0 +1,29 @@
+body {
+    background-color: #3b3b3a;
+}
+button {
+    background-color: #c0c024; text-align: center;
+    display: block;
+    padding: 5px 5px 5px 5px;
+    border: solid 5px;
+    border-radius: 5px;
+}
+input {
+    border: solid 5px #c4c420;
+    border-radius: 5px;
+    padding: 3px 3px 3px 3px;
+}
+h2 {
+    color: #8f8f26;
+    display: block;
+    text-align: center;
+    font-size: 40px;
+    font: italic;
+}
+h3 {
+    color: #8f8f26;
+    font-size: 65px;
+    display: block;
+    text-align: center;
+    font: message-box;
+}
